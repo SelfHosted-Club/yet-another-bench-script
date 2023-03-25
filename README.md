@@ -7,6 +7,9 @@ Logo design by [Dian Pratama](https://github.com/dianp)
 
 This script isn't an attempt to be a golden standard. It's just yet another bench script to add to your arsenal. Included are several tests that I think are most beneficial for the end-user. If there's features that you would like to see added, feel free to submit an issue describing your feature request or fork the project!
 
+### **This is a modified script by SelfHosted.Club that sends through JSON the region, city, country and the organization that the IP is under - it is to distinguish various providers out there, no personal information is pulled - unless you are your own ISP and the organization is your personal name.**
+
+
 View YABS usage stats [here](https://yabs.rowe.sh).
 
 ### **What's New With YABS?**
